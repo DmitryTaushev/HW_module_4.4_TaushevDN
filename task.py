@@ -14,4 +14,4 @@ def get_personal_data(**kwargs):
     print(kwargs['age'])
     print(kwargs['phone'])
 
-get_personal_data(name = "Дмитрий",surname = 'Таушев', age = 28, phone = +79825657627)
+get_personal_data(name = "Вася",surname = 'Пупкин', age = 28, phone = +79825657627)
